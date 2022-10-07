@@ -24,4 +24,8 @@ Documentação de tudo o que foi produzido durante a gestão 2022.2 (Julho até 
 - [x] [Climatização da sala](#)
 - [x] [Sistema de comunicação](#)
 
+</br>
+
+> Poli é força, DIV é evolução!
+
 [⬆ Voltar ao topo](#-relatório)
