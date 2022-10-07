@@ -1,7 +1,27 @@
-# Relatório
+# 📝 Relatório
 
-# Inovações
+Documentação de tudo o que foi produzido durante a gestão 2022.2 (Julho até Dezembro)
 
-# Propostas
+# 🎯 Propostas
+- [Orientação dos Professores](#)
+- [Sistema do RAD](https://github.com/DIVE-POLI/consulta-orientacoes)
+- [Sistema do SEI](https://github.com/DIVE-POLI/controle-cadastros-SEI)
+- [Automação de Planilhas](#)
+- [Relatórios de Desempenho](#)
+- [Computador para Atendimento dos Alunos](#)
+- [Redução dos Papéis](#)
 
-# Projetos
+# 🚀 Projetos Implementados
+- [ ] Orientação dos Professores
+- [ ] Sistema do RAD
+- [ ] Sistema do SEI
+- [ ] Automação de Planilhas
+- [ ] Relatórios de Desempenho
+
+# 📈 Melhoras Internas
+- [x] [Mini Copa](#)
+- [x] [Solta o som DJ](#)
+- [x] [Climatização da sala](#)
+- [x] [Sistema de comunicação](#)
+
+[⬆ Voltar ao topo](#-relatório)
