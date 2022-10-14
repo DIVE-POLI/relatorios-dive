@@ -5,16 +5,22 @@
 ## 🎯 Proposta
 Sistema para os professores monitorarem suas orientações de estágio
 
-<img src="gestoes/gestao2022-2/orientacao-professores/imagens-readme/orientacao-estagio.png" alt="imagem da planilha de orientações dos professores">
+<img src="imagens-readme/orientacao-estagio.PNG" alt="imagem da planilha de orientações dos professores">
 
 > Sistema exibindo as orientações do professor Henrique Alves Dinarte.
+
+## 🚀 Funcionalidades
+
+- [x] Func 1
+- [x] Func 2
+- [x] Func 3
 
 ## :man_technologist: Contribuidores
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/LucasHenrique-dev">
-        <img src="imagens-README/contribuidores/foto-perfil.svg" width="100px;" alt="Foto do Lucas Henrique no Github"/><br>
+        <img src="../../../imagens-README/contribuidores/perfil-lucas.svg" width="100px;" alt="Foto do Lucas Henrique no Github"/><br>
         <sub>
           <b>Lucas Henrique</b>
         </sub>
@@ -23,4 +29,4 @@ Sistema para os professores monitorarem suas orientações de estágio
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#-acompanhamento-de-orientacoes)
+[⬆ Voltar ao topo](#-acompanhamento-de-orientações)
