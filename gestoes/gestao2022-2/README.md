@@ -3,7 +3,7 @@
 Documentação de tudo o que foi produzido durante a gestão 2022.2 (Julho até Dezembro)
 
 # 🎯 Propostas
-- [Orientação dos Professores](#gestoes/gestao2022-2/orientacao-professores)
+- [Orientação dos Professores](orientacao-professores)
 - [Sistema do RAD](https://github.com/DIVE-POLI/consulta-orientacoes)
 - [Sistema do SEI](https://github.com/DIVE-POLI/controle-cadastros-SEI)
 - [Automação de Planilhas](#)
