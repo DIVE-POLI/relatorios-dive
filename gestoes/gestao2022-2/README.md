@@ -23,6 +23,7 @@ Documentação de tudo o que foi produzido durante a gestão 2022.2 (Julho até 
 - [x] [Solta o som DJ](#)
 - [x] [Climatização da sala](#)
 - [x] [Sistema de comunicação](#)
+- [x] [Documentação dos Procedimentos Internos](procedimentos-internos)
 
 </br>
 
