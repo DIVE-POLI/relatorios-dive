@@ -39,6 +39,7 @@ A exemplo de pendências, tem-se:
 O formulário oficial de trabalho da Divisão de Estágio Poli para casos de solicitações e pendências, chama-se "Solicitações e Pendências". Nele, toda e qualquer pessoa/entidade que o preencher irá se identificar, preencher suas informações de contato, sinalizar sua necessidade e pedir e/ou enviar documentos.
 De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
 1. Identifiação:
+
     1. Usuário informa seu email de contato **(OBRIGATÓRIO)**
     1. Usuário informa se é "Aluno", "Professor" ou "Empresa" **(OBRIGATÓRIO)**
 1. Informações Específicas:
@@ -59,6 +60,7 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
         1. Empresa informa seu CNPJ **(OBRIGATÓRIO)**
         1. Empresa informa o nome do seu representante **(OBRIGATÓRIO)**
 1. Sinalização de Necessidade:
+
     1. Usuário informa o tipo de necessidade, o qual pode ser: **(OBRIGATÓRIO)**
         - Solicitação
         - Pendência
@@ -67,33 +69,40 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
 
     Nesta etapa, o usuário seleciona o tipo específico de sua necessidade. Caso a opção escolhida na etapa enterior tenha sido "Entrega de Relatório Final", a próxima etapa do fluxo é "Informações do Relatório" e, portanto, etapa atual não é considerada para este caso.
     1. Usuário informa uma categoria específica sobre sua necessidade **(OBRIGATÓRIO)**
-1. Descrição da Necessidade: 
+1. Descrição da Necessidade:
+
     1. Usuário informa descrição detalhada sobre sua necessidade (OPCIONAL)
 1. Envio de Arquivos:
+
     1. Usuário envia arquivos referentes a sua necessidade (OPCIONAL)
 1. Informações do Relatório:
+
     1. Usuário informa o tipo de relatório o qual pretende entregar **(OBRIGATÓRIO)**
     1. Usuário anexa o arquivo PDF referente ao relatório de estágio **(OBRIGATÓRIO)**
     1. Usuário informa algum comentário pertinente à situação (OPCIONAL)      
 
 ---
 ### LEGENDA DE CORES
-1. SITE
-    1. BRANCO:
-    2. VERMELHO:
-    3. LARANJA: 
-3. CONTROLE
-    1. VERMELHO:
-    2. AZUL:
-    3. AMARELO:
-    3. ROSA:
-    3. VERDE:
-    3. LARANJA:
+1. Solicitações e Pendências - SITE
+    1. <mark style="background-color:white">BRANCO</mark>: Novos Dados/novas respostas vindas do formulário -> Informações ainda não tratadas
+    1. <mark style="background-color:orange">LARANJA</mark>: Existe algum problema e já foi reprotado para o solicitante
+    1. <mark style="background-color:red">VERMELHO</mark>: Dados checados e procedentes. Solicitação/Pendência já foi repassada para a planilha "Solicitações e Pendências - CONTROLE"
+3. Solicitações e Pendências - CONTROLE
+    1. <mark style="background-color:red">VERMELHO</mark>: Requisitos checados. Precissa de atuação no SEI
+    1. <mark style="background-color:blue">AZUL</mark>: Atuação no SEI realizada. Falta coordenador assinar
+    1. <mark style="background-color:yellow">AMARELO</mark>: Documento assinado pelo coordenador
+    1. <mark style="background-color:pink">ROSA</mark>: Documento assinado disponível na pasta compartilhada. Falta enviar para o interessado por email
+    1. <mark style="background-color:green">VERDE</mark>: Email enviado e Solicitação/Pendência resolvida
+    1. <mark style="background-color:orange">LARANJA</mark>: Estágio com vigência finalizada, porém com documentação incompleta. Problema reportado ao aluno
+
+---
+### LÓGICA DAS CORES
+
 
 ---
 ### Planilha
-1. SITE
-2. CONTROLE
+1. Solicitações e Pendências - SITE
+2. Solicitações e Pendências - CONTROLE
 
 ---
 ### Rotina
