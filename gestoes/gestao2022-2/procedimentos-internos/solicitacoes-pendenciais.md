@@ -95,6 +95,11 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
     1. <mark style="background-color:green">VERDE</mark>: Email enviado e Solicitação/Pendência resolvida
     1. <mark style="background-color:orange">LARANJA</mark>: Estágio com vigência finalizada, porém com documentação incompleta. Problema reportado ao aluno
 
+
+<!-- https://placehold.co/ -->
+<!-- ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `#f03c15` -->
+<!-- ![Hello](https://placehold.co/600x400?text=Hello+World) -->
+
 ---
 ### LÓGICA DAS CORES
 
