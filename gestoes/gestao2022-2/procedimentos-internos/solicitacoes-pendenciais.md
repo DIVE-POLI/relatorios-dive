@@ -87,7 +87,7 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
     1. <mark style="background-color:white">BRANCO</mark>: Novos Dados/novas respostas vindas do formulário -> Informações ainda não tratadas
     1. <mark style="background-color:orange">LARANJA</mark>: Existe algum problema e já foi reprotado para o solicitante
     1. <mark style="background-color:red">VERMELHO</mark>: Dados checados e procedentes. Solicitação/Pendência já foi repassada para a planilha "Solicitações e Pendências - CONTROLE"
-3. Solicitações e Pendências - CONTROLE
+1. Solicitações e Pendências - CONTROLE
     1. <mark style="background-color:red">VERMELHO</mark>: Requisitos checados. Precissa de atuação no SEI
     1. <mark style="background-color:blue">AZUL</mark>: Atuação no SEI realizada. Falta coordenador assinar
     1. <mark style="background-color:yellow">AMARELO</mark>: Documento assinado pelo coordenador
@@ -95,6 +95,12 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
     1. <mark style="background-color:green">VERDE</mark>: Email enviado e Solicitação/Pendência resolvida
     1. <mark style="background-color:orange">LARANJA</mark>: Estágio com vigência finalizada, porém com documentação incompleta. Problema reportado ao aluno
 
+---
+### LEGENDAS DE CORES SIMPLIFICADAS
+1. Solicitações e Pendências - SITE </br>
+&emsp;  ![BRANCO](https://placehold.co/80x40/white/black?text=BRANCO:)
+![BRANCO](https://placehold.co/150x40/0d1117/c9d1d9?text=NOVOS++DADOS)
+    
 
 <!-- https://placehold.co/ -->
 <!-- ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `#f03c15` -->
