@@ -93,18 +93,30 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
     1. <mark style="background-color:yellow">AMARELO</mark>: Documento assinado pelo coordenador
     1. <mark style="background-color:pink">ROSA</mark>: Documento assinado disponível na pasta compartilhada. Falta enviar para o interessado por email
     1. <mark style="background-color:green">VERDE</mark>: Email enviado e Solicitação/Pendência resolvida
-    1. <mark style="background-color:orange">LARANJA</mark>: Estágio com vigência finalizada, porém com documentação incompleta. Problema reportado ao aluno
 
 ---
 ### LEGENDAS DE CORES SIMPLIFICADAS
 1. Solicitações e Pendências - SITE </br>
-&emsp;  ![BRANCO](https://placehold.co/80x40/white/black?text=BRANCO:)
-![BRANCO](https://placehold.co/150x40/0d1117/c9d1d9?text=NOVOS++DADOS)
-    
+    &emsp;  ![BRANCO](https://placehold.co/80x40/white/black?text=BRANCO:)
+![DESCRCAO-BRANCO](https://placehold.co/200x40/0d1117/c9d1d9?text=NOVOS++DADOS) </br>
+    &emsp;  ![LARANJA](https://placehold.co/80x40/orange/black?text=LARANJA:)
+![DESCRCAO-LARANJA](https://placehold.co/200x40/0d1117/c9d1d9?text=PROBLEMA++REPORTADO) </br>
+    &emsp;  ![VERMELHO](https://placehold.co/80x40/red/black?text=VERMELHO:)
+![DESCRCAO-VERMELHO](https://placehold.co/200x40/0d1117/c9d1d9?text=DADOS++CHECADOS)
 
-<!-- https://placehold.co/ -->
-<!-- ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `#f03c15` -->
-<!-- ![Hello](https://placehold.co/600x400?text=Hello+World) -->
+1. Solicitações e Pendências - CONTROLE </br>
+    &emsp;  ![VERMELHO](https://placehold.co/80x40/red/black?text=VERMELHO:)
+![DESCRCAO-VERMELHO](https://placehold.co/200x40/0d1117/c9d1d9?text=PRECISA++IR++PARA++O++SEI) </br>
+    &emsp;  ![AZUL](https://placehold.co/80x40/blue/black?text=AZUL:)
+![DESCRCAO-AZUL](https://placehold.co/200x40/0d1117/c9d1d9?text=FALTA++COORDENADOR++ASSINAR) </br>
+    &emsp;  ![AMARELO](https://placehold.co/80x40/yellow/black?text=AMARELO:)
+![DESCRCAO-AMARELO](https://placehold.co/200x40/0d1117/c9d1d9?text=DOCUMENTO++ASSINADO) </br>
+    &emsp;  ![ROSA](https://placehold.co/80x40/pink/black?text=ROSA:)
+![DESCRCAO-ROSA](https://placehold.co/200x40/0d1117/c9d1d9?text=ENVIAR++DOCUMENTO) </br>
+    &emsp;  ![VERDE](https://placehold.co/80x40/green/black?text=VERDE:)
+![DESCRCAO-VERDE](https://placehold.co/200x40/0d1117/c9d1d9?text=DEMANDA++FINALIZADA) </br>
+
+<!-- Site para inserir place holders: https://placehold.co/ -->
 
 ---
 ### LÓGICA DAS CORES
