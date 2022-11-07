@@ -88,7 +88,7 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
     1. <mark style="background-color:orange">LARANJA</mark>: Existe algum problema e já foi reprotado para o solicitante
     1. <mark style="background-color:red">VERMELHO</mark>: Dados checados e procedentes. Solicitação/Pendência já foi repassada para a planilha "Solicitações e Pendências - CONTROLE"
 1. Solicitações e Pendências - CONTROLE
-    1. <mark style="background-color:red">VERMELHO</mark>: Requisitos checados. Precissa de atuação no SEI
+    1. <mark style="background-color:red">VERMELHO</mark>: Requisitos checados. Precissa de atuação no SEI ou exige resolução para um problema específico
     1. <mark style="background-color:blue">AZUL</mark>: Atuação no SEI realizada. Falta coordenador assinar
     1. <mark style="background-color:yellow">AMARELO</mark>: Documento assinado pelo coordenador
     1. <mark style="background-color:pink">ROSA</mark>: Documento assinado disponível na pasta compartilhada. Falta enviar para o interessado por email
@@ -106,7 +106,7 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
 
 1. Solicitações e Pendências - CONTROLE </br>
     &emsp;  ![VERMELHO](https://placehold.co/80x40/red/black?text=VERMELHO:)
-![DESCRCAO-VERMELHO](https://placehold.co/200x40/0d1117/c9d1d9?text=IR++PARA++O++SEI) </br>
+![DESCRCAO-VERMELHO](https://placehold.co/200x40/0d1117/c9d1d9?text=RESOLVER++DEMANDA) </br>
     &emsp;  ![AZUL](https://placehold.co/80x40/blue/black?text=AZUL:)
 ![DESCRCAO-AZUL](https://placehold.co/200x40/0d1117/c9d1d9?text=FALTA++ASSINAR) </br>
     &emsp;  ![AMARELO](https://placehold.co/80x40/yellow/black?text=AMARELO:)
