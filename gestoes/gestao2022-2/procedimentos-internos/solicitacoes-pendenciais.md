@@ -5,12 +5,18 @@ O seguinte documento descreve os procedimentos os quais todo estagiário na divi
 - [O que é uma Solicitação](#solicitações)
 - [O que é uma Pendência](#pendências)
 - [Formulário de Resposta](#formulário)
-- [Planilha de Submissões](#planilha)
+- [Manual das Cores](#manual-das-cores)
+    - [Legenda Detalhada](#legenda-de-cores)
+    - [Legenda Simplificada](#legenda-de-cores-simplificada)
+    - [Fluxo Funcional](#fluxo-funcional-das-cores)
+- [Planilhas](#planilha)
+    - [Descrição](#descrição-das-planilhas)
+    - [Detalhamento das Colunas](#detalhamento-das-colunas)
 - [Rotina de Trabalho](#rotina)
 
 ---
-### Solicitações
-> Do latim sollicitūdo, solicitação é uma diligência cuidadosa, um requerimento ou um pedido. O verbo solicitar, por sua vez, refere-se ao acto de pedir, exigir, pretender ou procurar algo.
+### SOLICITAÇÕES
+> Do latim *sollicitūdo*, solicitação é uma diligência cuidadosa, um requerimento ou um pedido. O verbo solicitar, por sua vez, refere-se ao acto de pedir, exigir, pretender ou procurar algo.
 
 Para fins práticos, considera-se uma solicitação todo pedido ou exigência feita à Divisão de estágio. Dessa forma, ela pode ser feita por alunos, professores ou empresas.
 A exemplo de solicitações, tem-se:
@@ -22,7 +28,7 @@ A exemplo de solicitações, tem-se:
     - Descrição: Aluno envia documento objetivando mudar alguma cláusula de seu contrato de estágio, seja ela o tempo de vigência no estágio, carga horária de trabalho, benefícios e afins
 
 ---
-### Pendências
+### PENDÊNCIAS
 > Algo que ainda não foi resolvido ou solucionado; Que não foi finalizado, está pendente.
 
 Para fins práticos, considera-se uma pendência todo tipo de documentação faltante em relação a um sujeito ou entidade. Em outras palavras, são documentos que devem estar em posse da Divisão de Estágio e que por algum motivo não foram entregues ou possuem um prazo de entrega. Portanto, é essencial que tais documentos sejam cobrados e devidamente coletados e registrados.
@@ -35,7 +41,7 @@ A exemplo de pendências, tem-se:
     - Descrição: Aluno envia documento objetivando resolver pendência sobre a entrega de seu plano de atividades de estágio
 
 ---
-### Formulário
+### FORMULÁRIO
 O formulário oficial de trabalho da Divisão de Estágio Poli para casos de solicitações e pendências, chama-se "Solicitações e Pendências". Nele, toda e qualquer pessoa/entidade que o preencher irá se identificar, preencher suas informações de contato, sinalizar sua necessidade e pedir e/ou enviar documentos.
 De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
 1. Identifiação:
@@ -82,7 +88,10 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
     1. Usuário informa algum comentário pertinente à situação (OPCIONAL)      
 
 ---
-### LEGENDA DE CORES
+### MANUAL DAS CORES
+A seguinte sessão visa mostrar o funcionamento do sistema de cores usadas para trabalhar os dados das planilhas de Solicitações e Pendências.
+
+#### LEGENDA DE CORES
 1. Solicitações e Pendências - SITE
     1. <mark style="background-color:white">BRANCO</mark>: Novos Dados/novas respostas vindas do formulário -> Informações ainda não tratadas
     1. <mark style="background-color:orange">LARANJA</mark>: Existe algum problema e já foi reprotado para o solicitante
@@ -94,8 +103,7 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
     1. <mark style="background-color:pink">ROSA</mark>: Documento assinado disponível na pasta compartilhada. Falta enviar para o interessado por email
     1. <mark style="background-color:green">VERDE</mark>: Email enviado e Solicitação/Pendência resolvida
 
----
-### LEGENDA DE CORES SIMPLIFICADA
+#### LEGENDA DE CORES SIMPLIFICADA
 1. Solicitações e Pendências - SITE </br>
     &emsp;  ![BRANCO](https://placehold.co/80x40/white/black?text=BRANCO:)
 ![DESCRCAO-BRANCO](https://placehold.co/200x40/0d1117/c9d1d9?text=NOVOS++DADOS) </br>
@@ -118,14 +126,36 @@ De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
 
 <!-- Site para inserir place holders: https://placehold.co/ -->
 
----
-### FLUXO FUNCIONAL DAS CORES
+#### FLUXO FUNCIONAL DAS CORES
 
+![Fluxo Funcional das Cores](images/fluxo_funcional_cores.svg)
 
 ---
-### Planilha
-1. Solicitações e Pendências - SITE
-2. Solicitações e Pendências - CONTROLE
+### PLANILHA
+O trabalho dos estagiários, servidores e coordenador da Divisão de Estágio para a resolução das demandas de solicitações e pendências se baseia na gestão de dados em planilhas. A fim de organizar melhor o trabalho sobre os dados, está estabelecido que:
+
+#### DESCRIÇÃO DAS PLANILHAS
+- Planilha com identificador "SITE":
+    - FUNÇÃO: Serve para realizar os primeiros tratamentos sobre os dados que chegam do formulário "Solicitações e Pendências", descrito em [Formulário](#formulário)
+    - RESPONSÁVEIS: estagiários
+- Planilha com identificador "CONTROLE":
+    - FUNÇÃO: Continuação do tratamento dos dados realizados na planilha SITE. Nesta etapa, os dados podem ou não necessitar de atuação no SEI ([Sistema Eletrônico de Informações](https://sei.pe.gov.br/sip/login.php?sigla_orgao_sistema=GOVPE&sigla_sistema=SEI))
+    - RESPONSÁVEIS: estagiários, servidores e coordenador da divisão de estágio
+
+#### DETALHAMENTO DAS COLUNAS
+- Solicitações e Pendências - SITE:
+    - Carimbo:
+    - Carimbo:
+    - Carimbo:
+    - Carimbo:
+    - Carimbo:
+    
+- Solicitações e Pendências - CONTROLE:
+    - Carimbo:
+    - Carimbo:
+    - Carimbo:
+    - Carimbo:
+    - Carimbo:
 
 ---
 ### Rotina
