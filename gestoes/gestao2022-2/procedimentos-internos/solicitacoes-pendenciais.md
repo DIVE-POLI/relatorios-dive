@@ -16,6 +16,7 @@ O seguinte documento descreve os procedimentos os quais todo estagiário na divi
         - [SITE](#solicitações-e-pendências---site)
         - [CONTROLE](#solicitações-e-pendências---controle)
 - [Rotina de Trabalho](#rotina)
+- [Tratamento das Demandas](#tratamento-das-demandas)
 
 ---
 ### SOLICITAÇÕES
@@ -269,12 +270,37 @@ O trabalho dos estagiários, servidores e coordenador da Divisão de Estágio pa
     - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
     - FÓRMULA: -
 ##### SOLICITAÇÕES E PENDÊNCIAS - SITE:
+As colunas listadas no tópico acima são as primeiras colunas desta planilha, ou seja, as primeiras 24 colunas de Solicitações e Pendências - SITE possuem as mesmas especificações das colunas já descritas anteriormente. Portanto, as especificações descritas abaixo dizem respeito à colunas próprias dessa planilha
 1. OBS. (Controle Interno)
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
 1. AUTOMAÇÕES ➡️➡️➡️
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
 1. ARQUIVO 1
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
 1. ARQUIVO 2
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
 1. ARQUIVO 3
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
 1. ARQUIVO 4
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
     
 ##### SOLICITAÇÕES E PENDÊNCIAS - CONTROLE:
 1. Carimbo
@@ -285,5 +311,42 @@ O trabalho dos estagiários, servidores e coordenador da Divisão de Estágio pa
 
 ---
 ### ROTINA
+A seguinte sessão visa mostrar o fluxo de trabalho dos funcionários da Divisão de Estágio sobre as demandas relacionadas a Solicitações e Pendências.
+
+**ESTAGIÁRIO**
+- Fluxo Base:
+    1. Localizar computador de trabalho e logar em sua conta
+        - **USUÁRIO**: as iniciais de seu nome, as mesmas usadas no e-mail institucional (@poli.br)
+        - **SENHA**: seu CPF, **APENAS números**
+    1. ATIVIDADE
+- Fluxo Alternativo:
+    1. ERRO AO LOGAR NO COMPUTADOR
+        1. Na etapa 1 do fluxo base, ao tentar logar e o usuário for inválido, procurar suporte do DTI
+        1. Usar as novas credenciais dadas pelo DTI
+        1. Continuar a etapa 2 do fluxo base
+    1. ATIVIDADE
+
+**SERVIDOR**
+- Fluxo Base:
+    1. ATIVIDADE
+    1. ATIVIDADE
+    1. ATIVIDADE
+    1. ATIVIDADE
+- Fluxo Alternativo:
+    1. ATIVIDADE
+    1. ATIVIDADE
+
+**COORDENADOR**
+- Fluxo Base:
+    1. ATIVIDADE
+    1. ATIVIDADE
+    1. ATIVIDADE
+    1. ATIVIDADE
+- Fluxo Alternativo:
+    1. ATIVIDADE
+    1. ATIVIDADE
+
+### TRATAMENTO DAS DEMANDAS
+
 
 [⬆ Voltar ao topo](#-solicitações-e-pendências)
