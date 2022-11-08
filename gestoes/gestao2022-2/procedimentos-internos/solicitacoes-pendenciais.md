@@ -12,6 +12,9 @@ O seguinte documento descreve os procedimentos os quais todo estagiário na divi
 - [Planilhas](#planilha)
     - [Descrição](#descrição-das-planilhas)
     - [Detalhamento das Colunas](#detalhamento-das-colunas)
+        - [Colunas Padrão](#colunas-de-respostas-do-formulário)
+        - [SITE](#solicitações-e-pendências---site)
+        - [CONTROLE](#solicitações-e-pendências---controle)
 - [Rotina de Trabalho](#rotina)
 
 ---
@@ -143,21 +146,144 @@ O trabalho dos estagiários, servidores e coordenador da Divisão de Estágio pa
     - RESPONSÁVEIS: estagiários, servidores e coordenador da divisão de estágio
 
 #### DETALHAMENTO DAS COLUNAS
-- Solicitações e Pendências - SITE:
-    - Carimbo:
-    - Carimbo:
-    - Carimbo:
-    - Carimbo:
-    - Carimbo:
+
+##### COLUNAS DE RESPOSTAS DO FORMULÁRIO:
+1. Carimbo de data/hora
+    - DESCRIÇÃO: coluna padrão de registro de repostas vindas dos formulários Google
+    - FORMULÁRIO: -
+    - INFORMAÇÃO: exibe o Dia, Mês, Ano, Hora, Minutos e Segundos em que a resposta foi registrada. Segue o padrão: DD/MM/AA HH:MM:SS
+    - FÓRMULA: -
+1. Endereço de e-mail
+    - DESCRIÇÃO: registra o email de contato
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Identifique-se
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "Identifique-se"
+    - INFORMAÇÃO: exibe o tipo do solicitante. As opções possíveis são: **Aluno**, **Professor**, **Empresa**
+    - FÓRMULA: -
+1. Curso
+    - DESCRIÇÃO: registra o curso do **ALUNO**
+    - FORMULÁRIO: corresponde ao campo "Curso"
+    - INFORMAÇÃO: exibe o curso do **ALUNO**. As opções possíveis são: Engenharia Civil, Engenharia Elétrica Eletrotécnica, Engenharia Mecânica Industrial, Engenharia Elétrica Eletrônica, Engenharia Elétrica de Telecomunicações, Engenharia da Computação, Engenharia Controle e Automação, Física dos Materiais
+    - FÓRMULA: -
+1. Nome do Aluno
+    - DESCRIÇÃO: registra o nome do **ALUNO**
+    - FORMULÁRIO: corresponde ao campo "Nome do Aluno"
+    - INFORMAÇÃO: exibe o nome do **ALUNO**
+    - FÓRMULA: -
+1. CPF
+    - DESCRIÇÃO: registra o CPF do **ALUNO**
+    - FORMULÁRIO: corresponde ao campo "CPF"
+    - INFORMAÇÃO: exibe o CPF do **ALUNO**. Resposta possue apenas números
+    - FÓRMULA: -
+1. Período Atual
+    - DESCRIÇÃO: registra a quantidade de períodos cursados pelo **ALUNO** na UPE, incluindo o período atual
+    - FORMULÁRIO: corresponde ao campo "Período Atual"
+    - INFORMAÇÃO: exibe a quantidade de períodos cursados. Resposta possue apenas números
+    - FÓRMULA: -
+1. Telefone
+    - DESCRIÇÃO: registra o telefone do **ALUNO**
+    - FORMULÁRIO: corresponde ao campo "Telefone"
+    - INFORMAÇÃO: exibe o telefone do **ALUNO**. Resposta possue apenas números, segue o padrão: DDD + número de telefone
+    - FÓRMULA: -
+1. Nome do Professor
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Pleno
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Matrícula
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Nome da Empresa
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. CNPJ
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Representante
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Qual a sua necessidade?
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Qual seu tipo de solicitação?
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Outros
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Qual seu tipo de pendência?
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Outros
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Descreva aqui, em detalhes, o que você está precisando/irá mudar no seu contrato, em caso de entrega de termo aditivo
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Solicitação/Pendência
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Qual o tipo de seu relatório ?
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Relatório de Estágio
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+1. Caso queira nos relatar algo, diga aqui abaixo:
+    - DESCRIÇÃO: registra o tipo do solicitante
+    - FORMULÁRIO: corresponde ao campo "E-mail"
+    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - FÓRMULA: -
+##### SOLICITAÇÕES E PENDÊNCIAS - SITE:
+1. OBS. (Controle Interno)
+1. AUTOMAÇÕES ➡️➡️➡️
+1. ARQUIVO 1
+1. ARQUIVO 2
+1. ARQUIVO 3
+1. ARQUIVO 4
     
-- Solicitações e Pendências - CONTROLE:
-    - Carimbo:
-    - Carimbo:
-    - Carimbo:
-    - Carimbo:
-    - Carimbo:
+##### SOLICITAÇÕES E PENDÊNCIAS - CONTROLE:
+1. Carimbo
+1. Carimbo
+1. Carimbo
+1. Carimbo
+1. Carimbo
 
 ---
-### Rotina
+### ROTINA
 
 [⬆ Voltar ao topo](#-solicitações-e-pendências)
