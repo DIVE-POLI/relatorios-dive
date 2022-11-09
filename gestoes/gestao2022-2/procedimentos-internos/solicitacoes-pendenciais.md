@@ -17,6 +17,9 @@ O seguinte documento descreve os procedimentos os quais todo estagiário na divi
         - [CONTROLE](#solicitações-e-pendências---controle)
 - [Rotina de Trabalho](#rotina)
 - [Tratamento das Demandas](#tratamento-das-demandas)
+    - [Termo Aditivo de Estágio](#termo-aditivo-de-estágio)
+        - [Renovação de Estágio](#renovação-de-estágio)
+        - [Mudança de Estágio](#mudança-de-estágio)
 
 ---
 ### SOLICITAÇÕES
@@ -311,42 +314,80 @@ As colunas listadas no tópico acima são as primeiras colunas desta planilha, o
 
 ---
 ### ROTINA
-A seguinte sessão visa mostrar o fluxo de trabalho dos funcionários da Divisão de Estágio sobre as demandas relacionadas a Solicitações e Pendências.
+A seguinte sessão visa mostrar as primeiras ações a serem tomadas, por cada funcionário da Divisão de Estágio, para dar início ao tratamento das demandas relacionadas à Solicitações e Pendências.
 
 **ESTAGIÁRIO**
-- Fluxo Base:
+- Fluxo Principal:
     1. Localizar computador de trabalho e logar em sua conta
         - **USUÁRIO**: as iniciais de seu nome, as mesmas usadas no e-mail institucional (@poli.br)
         - **SENHA**: seu CPF, **APENAS números**
     1. ATIVIDADE
 - Fluxo Alternativo:
+    1. COMPUTADOR INDISPONÍVEL
+        1. Na etapa 1 do fluxo Principal, o computador estabelecido para trabalhar está indisponível para uso
+        1. Procurar outro computador disponível para uso
+        1. Pedir autorização do funcionário que normalmente usa este computador para trabalhar
+        1. Continuar a etapa 1 do fluxo Principal
+- Fluxo Exceção:
     1. ERRO AO LOGAR NO COMPUTADOR
-        1. Na etapa 1 do fluxo base, ao tentar logar e o usuário for inválido, procurar suporte do DTI
+        1. Na etapa 1 do fluxo Principal, ao logar, o computador retorna a "usuário inválido"
+        1. Procurar suporte do DTI atarvés do sistema [Helpdesk](http://servicedesk.poli.br/portal)
         1. Usar as novas credenciais dadas pelo DTI
-        1. Continuar a etapa 2 do fluxo base
+        1. Continuar a etapa 2 do fluxo Principal
     1. ATIVIDADE
 
 **SERVIDOR**
-- Fluxo Base:
+- Fluxo Principal:
     1. ATIVIDADE
     1. ATIVIDADE
     1. ATIVIDADE
     1. ATIVIDADE
 - Fluxo Alternativo:
-    1. ATIVIDADE
-    1. ATIVIDADE
+    1. TÍTULO
+        1. ATIVIDADE
+        1. ATIVIDADE
+        1. ATIVIDADE
+- Fluxo Exceção:
+    1. TÍTULO
+        1. ATIVIDADE
+        1. ATIVIDADE
 
 **COORDENADOR**
-- Fluxo Base:
+- Fluxo Principal:
     1. ATIVIDADE
     1. ATIVIDADE
     1. ATIVIDADE
     1. ATIVIDADE
 - Fluxo Alternativo:
-    1. ATIVIDADE
-    1. ATIVIDADE
+    1. TÍTULO
+        1. ATIVIDADE
+        1. ATIVIDADE
+        1. ATIVIDADE
+- Fluxo Exceção:
+    1. TÍTULO
+        1. ATIVIDADE
+        1. ATIVIDADE
 
 ### TRATAMENTO DAS DEMANDAS
+A seguinte sessão visa mostrar o fluxo de trabalho dos funcionários da Divisão de Estágio sobre as demandas relacionadas à Solicitações e Pendências.
+
+#### TERMO ADITIVO DE ESTÁGIO
+##### RENOVAÇÃO DE ESTÁGIO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição: aluno envia o TAE pelo formulário Solicitações e Pendências no site;
+- Pós-condição: estágio segue em curso normalmente
+- Fluxo Principal:
+    1. Estagiário verifica na planilha ‘Solicitações e Pendências - Site’ os requisitos, deixa em vermelho caso esteja tudo ok e coloca na planilha ‘Solicitações e Pendências - Controle’
+    1. Estagiário coloca o link do TAE na planilha ‘Cadastro de Estágios - Controle’
+- Fluxo Alternativo: -
+- Fluxo Exceção: -
+##### MUDANÇA DE ESTÁGIO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
 
 
 [⬆ Voltar ao topo](#-solicitações-e-pendências)
