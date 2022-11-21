@@ -371,17 +371,142 @@ A seguinte sessão visa mostrar as primeiras ações a serem tomadas, por cada f
 ### TRATAMENTO DAS DEMANDAS
 A seguinte sessão visa mostrar o fluxo de trabalho dos funcionários da Divisão de Estágio sobre as demandas relacionadas à Solicitações e Pendências.
 
-#### TERMO ADITIVO DE ESTÁGIO
-##### RENOVAÇÃO DE ESTÁGIO
+### DÚVIDA
+- Ator: estagiário
+- Pré-condição: solicitante envia dúvida por meio do formulário
+- Pós-condição: -
+- Fluxo Principal:
+    1. Estagiário localiza a dúvida na planilha 'Solicitações e Pendencias - SITE', através da coluna 'Qual a sua necessidade?'
+    1. Estagiário lê a descrição da dúvida, através da coluna 'Descreva aqui, em detalhes, o que você está precisando/irá mudar no seu contrato, em caso de entrega de termo aditivo'
+    1. Estagiário localiza o emai do 
+    1. Estagiário localiza a dúvida na planilha 'Solicitações e Pendencias - SITE'
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### RELATÓRIO FINAL
 - Ator: aluno, estagiário, servidor, coordenador
-- Pré-condição: aluno envia o TAE pelo formulário Solicitações e Pendências no site;
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### RECISÃO DE CONTRATO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### ENTREGA DO ACORDO DE COOPERAÇÃO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### TERMO DE REALIZAÇÃO DE ESTÁGIO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### DECLARAÇÃO DE CONCLUSÃO DE ESTÁGIO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### SOLICITAÇÃO DE DOCUMENTO MODELO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### SOLICITAÇÃO DE APTIDÃO PARA ESTÁGIO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### DEMANDAS EXTERNAS (ESCOLARIDADE)
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+#### TERMO ADITIVO DE ESTÁGIO
+##### PRORROGAÇÃO DO ESTÁGIO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição: aluno envia o TAE pelo formulário
 - Pós-condição: estágio segue em curso normalmente
 - Fluxo Principal:
     1. Estagiário verifica na planilha ‘Solicitações e Pendências - Site’ os requisitos, deixa em vermelho caso esteja tudo ok e coloca na planilha ‘Solicitações e Pendências - Controle’
     1. Estagiário coloca o link do TAE na planilha ‘Cadastro de Estágios - Controle’
 - Fluxo Alternativo: -
 - Fluxo Exceção: -
-##### MUDANÇA DE ESTÁGIO
+##### TROCA DE MODALIDADE
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+#### ALTERAÇÕES GERAIS (BOLSA, HORARIO DO ESTÁGIO, GESTOR...)
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+### ENTREGA DE DOCUMENTOS PENDENTES
+#### TERMO DE PROFESSOR ORIENTADOR
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+#### PLANO DE ATIVIDADES DE ESTÁGIO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+#### TERMO DE COMPROMISSO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+#### CARTEIRA DE TRABALHO
+- Ator: aluno, estagiário, servidor, coordenador
+- Pré-condição:
+- Pós-condição:
+- Fluxo Principal:
+- Fluxo Alternativo:
+- Fluxo Exceção:
+
+#### APÓLICE DE SEGURO DE ESTÁGIO
 - Ator: aluno, estagiário, servidor, coordenador
 - Pré-condição:
 - Pós-condição:
