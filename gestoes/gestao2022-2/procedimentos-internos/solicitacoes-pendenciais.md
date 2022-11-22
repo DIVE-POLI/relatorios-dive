@@ -53,7 +53,7 @@ O formulário oficial de trabalho da Divisão de Estágio Poli para casos de sol
 De maneira mais detalhada, o fluxo de informações segue o seguinte padrão:
 1. Identifiação:
 
-    1. Usuário informa seu email de contato **(OBRIGATÓRIO)**
+    1. Usuário informa seu e-mail de contato **(OBRIGATÓRIO)**
     1. Usuário informa se é "Aluno", "Professor" ou "Empresa" **(OBRIGATÓRIO)**
 1. Informações Específicas:
     
@@ -107,8 +107,8 @@ A seguinte sessão visa mostrar o funcionamento do sistema de cores usadas para 
     1. <mark style="background-color:red">VERMELHO</mark>: Requisitos checados. Precissa de atuação no SEI ou exige resolução para um problema específico
     1. <mark style="background-color:blue">AZUL</mark>: Atuação no SEI realizada. Falta coordenador assinar
     1. <mark style="background-color:yellow">AMARELO</mark>: Documento assinado pelo coordenador
-    1. <mark style="background-color:pink">ROSA</mark>: Documento assinado disponível na pasta compartilhada. Falta enviar para o interessado por email
-    1. <mark style="background-color:green">VERDE</mark>: Email enviado e Solicitação/Pendência resolvida
+    1. <mark style="background-color:pink">ROSA</mark>: Documento assinado disponível na pasta compartilhada. Falta enviar para o interessado por e-mail
+    1. <mark style="background-color:green">VERDE</mark>: E-mail enviado e Solicitação/Pendência resolvida
 
 #### LEGENDA DE CORES SIMPLIFICADA
 1. Solicitações e Pendências - SITE </br>
@@ -158,9 +158,9 @@ O trabalho dos estagiários, servidores e coordenador da Divisão de Estágio pa
     - INFORMAÇÃO: exibe o Dia, Mês, Ano, Hora, Minutos e Segundos em que a resposta foi registrada. Segue o padrão: DD/MM/AA HH:MM:SS
     - FÓRMULA: -
 1. Endereço de e-mail
-    - DESCRIÇÃO: registra o email de contato
+    - DESCRIÇÃO: registra o e-mail de contato
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Identifique-se
     - DESCRIÇÃO: registra o tipo do solicitante
@@ -195,114 +195,114 @@ O trabalho dos estagiários, servidores e coordenador da Divisão de Estágio pa
 1. Nome do Professor
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Pleno
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Matrícula
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Nome da Empresa
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. CNPJ
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Representante
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Qual a sua necessidade?
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Qual seu tipo de solicitação?
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Outros
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Qual seu tipo de pendência?
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Outros
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Descreva aqui, em detalhes, o que você está precisando/irá mudar no seu contrato, em caso de entrega de termo aditivo
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Solicitação/Pendência
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Qual o tipo de seu relatório ?
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Relatório de Estágio
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. Caso queira nos relatar algo, diga aqui abaixo:
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 ##### SOLICITAÇÕES E PENDÊNCIAS - SITE:
 As colunas listadas no tópico acima são as primeiras colunas desta planilha, ou seja, as primeiras 24 colunas de Solicitações e Pendências - SITE possuem as mesmas especificações das colunas já descritas anteriormente. Portanto, as especificações descritas abaixo dizem respeito à colunas próprias dessa planilha
 1. OBS. (Controle Interno)
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. AUTOMAÇÕES ➡️➡️➡️
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. ARQUIVO 1
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. ARQUIVO 2
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. ARQUIVO 3
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
 1. ARQUIVO 4
     - DESCRIÇÃO: registra o tipo do solicitante
     - FORMULÁRIO: corresponde ao campo "E-mail"
-    - INFORMAÇÃO: exibe o email. Segue o padrão: nome@domínio
+    - INFORMAÇÃO: exibe o e-mail. Segue o padrão: nome@domínio
     - FÓRMULA: -
     
 ##### SOLICITAÇÕES E PENDÊNCIAS - CONTROLE:
@@ -378,10 +378,27 @@ A seguinte sessão visa mostrar o fluxo de trabalho dos funcionários da Divisã
 - Fluxo Principal:
     1. Estagiário localiza a dúvida na planilha 'Solicitações e Pendencias - SITE', através da coluna 'Qual a sua necessidade?'
     1. Estagiário lê a descrição da dúvida, através da coluna 'Descreva aqui, em detalhes, o que você está precisando/irá mudar no seu contrato, em caso de entrega de termo aditivo'
-    1. Estagiário localiza o emai do 
-    1. Estagiário localiza a dúvida na planilha 'Solicitações e Pendencias - SITE'
+    1. Estagiário procura entender a dúvida e busca meios de solucioná-la
+    1. Estagiário localiza o e-mail do solicitante, através da coluna 'Endereço de e-mail'
+    1. Estagiário responde o solicitante, por e-mail, utilizando o e-mail coletado na etapa 4 do fluxo principal como destinatário da mensagem
+    1. Estagiário seleciona a linha da planilha em que se encontra a dúvida
+    1. Estagiário pinta a linha de vermelho
 - Fluxo Alternativo:
+    1. DEMANDA EXTERNA
+        1. Na etapa 3 do fluxo principal, estagiário nota que a dúvida mereçe ser sanada por outro departamento, por exemplo: escolaridade. Consultar [DEMANDAS EXTERNAS](#demandas-externas-escolaridade)
 - Fluxo Exceção:
+    1. E-MAIL INCORRETO
+        1. Na etapa 5 do fluxo principal, o endereço de e-mail enviado pelo solicitante está incorreto e ao enviar qualquer e-mail, recebe-se uma resposta de 'Mail Delivery Subsystem' informando 'Endereço não encontrado'
+        1. Estagiário localiza o cpf do solicitante, através da coluna 'CPF'
+        1. Estagiário busca pelo solicitante na própria planilha, utilizando o comando 'Ctrl+F' e o cpf como texto de pesquisa
+        1. Estagiário verifica o e-mail do solicitante em outras ocorrências e coleta um possíve e-mail correto
+        1. Retornar a etapa 5 do fluxo principal
+        1. Estagiário localiza a coluna 'OBS. (Controle Interno)' e escreve: 'NOME: relata o ocorrido'
+    1. FALTA DE CLAREZA
+        1. Na etapa 3 do fluxo princpal, estagiário identifica que a dúvida está mal formulada ou necessita de mais informações
+        1. Estagiário localiza o e-mail do solicitante, através da coluna 'Endereço de e-mail'
+- OBSERVAÇÕES: </br>
+Na etapa 3 do fluxo principal, caso o estagiário note que a dúvida necessite de apoio de algum servidor ou do coordenador, não hesitar em pedir suporte para que a dúvida seja sanada da maneira mais adequada
 
 ### RELATÓRIO FINAL
 - Ator: aluno, estagiário, servidor, coordenador
