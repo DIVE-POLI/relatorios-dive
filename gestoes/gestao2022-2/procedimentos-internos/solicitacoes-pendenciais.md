@@ -383,6 +383,10 @@ A seguinte sessão visa mostrar o fluxo de trabalho dos funcionários da Divisã
     1. Estagiário responde o solicitante, por e-mail, utilizando o e-mail coletado na etapa 4 do fluxo principal como destinatário da mensagem
     1. Estagiário seleciona a linha da planilha em que se encontra a dúvida
     1. Estagiário pinta a linha de vermelho
+    1. Estagiário seleciona a linha da planilha em que se encontra a dúvida e copia as informações apertando 'Ctrl + C'
+    1. Estagiário acessa a planilha 'Solicitações e Pendências - CONTROLE'
+    1. Estagiário localiza última linha de conteúdo da planilha
+    1. Estagiário aperta 'Ctrl + Z' e cola as informações, copiadas na etapa 8 do fluxo principal, na linha seguinte da planilha
 - Fluxo Alternativo:
     1. DEMANDA EXTERNA
         1. Na etapa 3 do fluxo principal, estagiário nota que a dúvida mereçe ser sanada por outro departamento, por exemplo: escolaridade. Consultar [DEMANDAS EXTERNAS](#demandas-externas-escolaridade)
@@ -390,13 +394,16 @@ A seguinte sessão visa mostrar o fluxo de trabalho dos funcionários da Divisã
     1. E-MAIL INCORRETO
         1. Na etapa 5 do fluxo principal, o endereço de e-mail enviado pelo solicitante está incorreto e ao enviar qualquer e-mail, recebe-se uma resposta de 'Mail Delivery Subsystem' informando 'Endereço não encontrado'
         1. Estagiário localiza o cpf do solicitante, através da coluna 'CPF'
-        1. Estagiário busca pelo solicitante na própria planilha, utilizando o comando 'Ctrl+F' e o cpf como texto de pesquisa
+        1. Estagiário busca pelo solicitante na própria planilha, utilizando o comando 'Ctrl + F' e o cpf como texto de pesquisa
         1. Estagiário verifica o e-mail do solicitante em outras ocorrências e coleta um possíve e-mail correto
         1. Retornar a etapa 5 do fluxo principal
         1. Estagiário localiza a coluna 'OBS. (Controle Interno)' e escreve: 'NOME: relata o ocorrido'
     1. FALTA DE CLAREZA
         1. Na etapa 3 do fluxo princpal, estagiário identifica que a dúvida está mal formulada ou necessita de mais informações
         1. Estagiário localiza o e-mail do solicitante, através da coluna 'Endereço de e-mail'
+        1. Estagiário escreve e-mail para o solicitante, a fim de entender melhor a dúvida
+        1. Estagiário seleciona a linha da planilha em que se encontra a dúvida
+        1. Estagiário pinta a linha de laranja   
 - OBSERVAÇÕES: </br>
 Na etapa 3 do fluxo principal, caso o estagiário note que a dúvida necessite de apoio de algum servidor ou do coordenador, não hesitar em pedir suporte para que a dúvida seja sanada da maneira mais adequada
 
